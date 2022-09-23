@@ -1,6 +1,11 @@
 # Rosalind
 > Solving Rosalind Problems
 
+## Before Committing!
+- Check doubled words in **Problem**
+- Put **Sample Dataset** and **Sample Output** in codeblock
+- Make sure to pass **Python Code Style Check** as written below
+
 ## Python Code Style Check
 ```shell
 pycodestyle _pycode_.py
