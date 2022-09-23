@@ -14,11 +14,15 @@ An example of a length 21 **[DNA string](https://rosalind.info/glossary/dna-str
 
 ## **Sample Dataset**
 
-**`AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAGC`**
+```python
+AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAGC
+```
 
 ## **Sample Output**
 
-**`20 12 17 21`**
+```python
+20 12 17 21
+```
 
 ## Code
 

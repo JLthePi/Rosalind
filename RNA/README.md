@@ -14,11 +14,15 @@ Given a [DNA string](https://rosalind.info/glossary/dna-string/) tt correspon
 
 ## **Sample Dataset**
 
-**`GATGGAACTTGACTACGTAAATT`**
+```python
+GATGGAACTTGACTACGTAAATT
+```
 
 ## **Sample Output**
 
-**`GAUGGAACUUGACUACGUAAAUU`**
+```python
+GAUGGAACUUGACUACGUAAAUU
+```
 
 ## Code
 
