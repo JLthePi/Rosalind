@@ -94,13 +94,11 @@ def DNA(s: str) -> str:
 ```python
 # len(s) = 10000000
 
-# s를 순회하는 방법
+# iterating through s
 2891831 2272229 2527388 2308551
 --- 0.7820 seconds ---
 
-# s.count를 사용한 방법
+# using s.count 4 times
 2891831 2272229 2527388 2308551
 --- 0.0870 seconds ---
-
-# count를 사용하는 것이 더 빠르다
 ```

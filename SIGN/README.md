@@ -88,10 +88,10 @@ if __name__ == "__main__":
 ```
 
 ```python
-# 결과를 print시
+# with printing the result
 --- 2.7050 seconds ---
 
-# 결과를 print하지 않을 시
+# without printing the result
 --- 0.0900 seconds ---
 ```
 
@@ -111,11 +111,9 @@ def SIGN(n: int) -> str:
 ```python
 # n = 7
 
-# 내 코드
+# My code
 --- 1.9390 seconds ---
 
-# Rosalind vote 많은 코드
+# Code with high Rosalind votes
 --- 18.5191 seconds ---
-
-# 내장함수를 많이 사용하자..?
 ```
