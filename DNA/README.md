@@ -8,9 +8,9 @@ A **[string](https://rosalind.info/glossary/string/)** is simply an ordered co
 
 An example of a length 21 **[DNA string](https://rosalind.info/glossary/dna-string/)** (whose alphabet contains the symbols 'A', 'C', 'G', and 'T') is "ATGCTTCAGAAAGGTCTTACG."
 
-**Given:** A DNA string ss of length at most 1000 nt.
+**Given:** A DNA string s of length at most 1000 nt.
 
-**Return:** Four integers (separated by spaces) counting the respective number of times that the symbols 'A', 'C', 'G', and 'T' occur in ss.
+**Return:** Four integers (separated by spaces) counting the respective number of times that the symbols 'A', 'C', 'G', and 'T' occur in s.
 
 ## **Sample Dataset**
 

@@ -6,11 +6,11 @@
 
 An **[RNA string](https://rosalind.info/glossary/rna-string/)** is a [string](https://rosalind.info/glossary/string/) formed from the [alphabet](https://rosalind.info/glossary/alphabet/) containing 'A', 'C', 'G', and 'U'.
 
-Given a [DNA string](https://rosalind.info/glossary/dna-string/) tt corresponding to a coding strand, its transcribed [RNA string](https://rosalind.info/glossary/rna-string/) uu is formed by replacing all occurrences of 'T' in tt with 'U' in uu.
+Given a [DNA string](https://rosalind.info/glossary/dna-string/) tt corresponding to a coding strand, its transcribed [RNA string](https://rosalind.info/glossary/rna-string/) u is formed by replacing all occurrences of 'T' in tt with 'U' in u.
 
 **Given:** A [DNA string](https://rosalind.info/glossary/dna-string/) tt having [length](https://rosalind.info/glossary/string-length/) at most 1000 [nt](https://rosalind.info/glossary/nucleotide/).
 
-**Return:** The transcribed RNA string of tt.
+**Return:** The transcribed RNA string of t.
 
 ## **Sample Dataset**
 
