@@ -1,3 +1,6 @@
 # folders
 __pycache__
 old
+
+# notion export
+*.zip
